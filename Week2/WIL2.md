@@ -52,3 +52,5 @@ pull은 무엇일까?
 - pull은 Remote Repository에 있는 변경 사항들을 Local Repository로 가져와 병합을 수행한다. **fetch 명령어와 다르게 pull 명령어는 Local Repository에 변경 내용을 병합하여 저장한다.** 확인을 거치지 않고 무조건 병합을 진행하기 때문에 충돌이 일어날 수도 있다.
 
 결론 - **fetch 후 pull 하는 것이 좋다!**
+
+작성: 홍익대 컴퓨터공학과 2학년 구민서
