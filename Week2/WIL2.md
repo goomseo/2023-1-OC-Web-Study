@@ -1,7 +1,1 @@
-1. git의 명령어 add, commit, push는 각각 어떤 역할을 하는지 정리
-
-2. git pull과 fetch의 차이점을 정리
-
-3. 1주차 내용 복습
-
-velog 주소: ㅁㄴㅇㄹㅁㄴㅇㄹ
+velog 주소: https://velog.io/@goomseo/GDSC-%EA%B8%B0%EC%B4%88-%EC%9B%B9-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C
