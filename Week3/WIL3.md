@@ -1,6 +1,6 @@
 # GDSC 기초 웹 스터디 WIL - Week 3
 
-(원문 URL: [GDSC 기초 웹 스터디 3주차 WIL - velog](https://goomseo.notion.site/Week3-afe59a31d80f4ed6a04f9db07f6594ec))
+(원문 URL: [GDSC 기초 웹 스터디 3주차 WIL - Notion](https://goomseo.notion.site/Week3-afe59a31d80f4ed6a04f9db07f6594ec))
 
 # git과 github을 이용한 협업 맛보기
 
