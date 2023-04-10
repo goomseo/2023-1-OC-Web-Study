@@ -26,7 +26,7 @@ HTML은 태그(Tag)들로 이루어져 있는데, HTML을 기술하기 위하여
 
 아래 이미지와 최대한 비슷하게 만들고, 주제를 정해 빙고를 만드는 것이 과제이다.
 
-[https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1bb5f2dd-81e1-44a9-ab39-6f38211f47ab%2FUntitled.png&blockId=92541ce1-500b-4904-a996-5ac302fd6e36](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1bb5f2dd-81e1-44a9-ab39-6f38211f47ab%2FUntitled.png&blockId=92541ce1-500b-4904-a996-5ac302fd6e36)
+![https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1bb5f2dd-81e1-44a9-ab39-6f38211f47ab%2FUntitled.png&blockId=92541ce1-500b-4904-a996-5ac302fd6e36](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1bb5f2dd-81e1-44a9-ab39-6f38211f47ab%2FUntitled.png&blockId=92541ce1-500b-4904-a996-5ac302fd6e36)
 
 다음은 html로 작성한 과제물이다.
 
