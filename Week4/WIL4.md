@@ -2,8 +2,6 @@
 
 (원문 URL: [GDSC 기초 웹 스터디 4주차 WIL - Notion](https://goomseo.notion.site/Week4-998fe523a8a04a1883e13932f20a6946))
 
-# GDSC 기초 웹 스터디 WIL - Week 4
-
 # HTML이란?
 
 ![HTML은 프로그래밍 언어와는 분명한 차이가 있다. (출처 - [클릭](https://www.reddit.com/r/ProgrammerHumor/comments/axm4xv/html_is_not_a_programming_language/))](https://i.redd.it/4c9uyah5gbk21.jpg)
