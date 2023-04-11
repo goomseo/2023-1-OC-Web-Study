@@ -98,3 +98,7 @@ HTML은 태그(Tag)들로 이루어져 있는데, HTML을 기술하기 위하여
     - td : 표의 내용(Table Data)을 표현할 때 사용하는 태그이며, tr 태그로 둘러쌓인 영역에서 작성한다.
   - label : 요소의 이름을 지정하는 것으로, 이 이름을 클릭하면 이에 해당하는 요소가 자동으로 선택된다. 여기에서 사용한 for 속성에는 어떤 요소와 연결할 것인지 입력할 수 있다. 또한 &nbsp라는 HTML 엔티티가 사용되었는데, 이는 No-Break-SPace의 약자로서 공백 한 칸을 삽입하는 역할을 한다.
   - input : 입력값 요소를 지정하는 태그로, type 속성에 따라 다른 입력값을 취한다. 여기서는 텍스트로 입력을 받도록 하였다. placeholder 속성은 입력 필드에 사용자가 적절한 값을 입력할 수 있도록 도와주는 도움말을 명시해주며, id 속성은 해당 요소의 고유 식별자로서 label 태그와 상호작용 할 수 있게 해준다.
+
+아래는 결과이다.
+
+![https://goomseo.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7798d47e-1f9b-4a77-8a69-e37b2156e2ab%2F%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-04-10_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_11.52.35.png?id=3e8708fe-7187-4cda-84c4-57f7aa9f62eb&table=block&spaceId=cae03794-17b8-4ef4-ba76-6b600ee8c90f&width=860&userId=&cache=v2](https://goomseo.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7798d47e-1f9b-4a77-8a69-e37b2156e2ab%2F%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-04-10_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_11.52.35.png?id=3e8708fe-7187-4cda-84c4-57f7aa9f62eb&table=block&spaceId=cae03794-17b8-4ef4-ba76-6b600ee8c90f&width=860&userId=&cache=v2)
