@@ -2,7 +2,7 @@
 
 (원문 URL: [GDSC 기초 웹 스터디 8주차 WIL - Notion](https://goomseo.notion.site/Week8-0520c586e9774de6bd06989ffedab890))
 
-새로 알게 된 내용 혹은 기억하고 싶은 내용을 정리하였다.
+새로 알게 된 내용 혹은 기억하고 싶은 내용을 정리
 
 # JavaScript 복습 내용 정리
 
